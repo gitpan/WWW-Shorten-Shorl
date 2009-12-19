@@ -1,0 +1,24 @@
+---
+name: WWW-Shorten-Shorl
+version: 1.92
+author:
+  - 'Iain Truskett <spoon@cpan.org>'
+  - 'Based on WWW::MakeAShorterLink by Dave Cross <dave@dave.org.uk>'
+abstract: Perl interface to shorl.com
+license: perl
+resources:
+  license: http://dev.perl.org/licenses/
+requires:
+  LWP::UserAgent: 0
+  WWW::Shorten: 0
+  perl: 5.6.0
+build_requires:
+  Test::More: 0.47
+provides:
+  WWW::Shorten::Shorl:
+    file: lib/WWW/Shorten/Shorl.pm
+    version: 1.92
+generated_by: Module::Build version 0.32
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.2.html
+  version: 1.2

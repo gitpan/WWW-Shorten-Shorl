@@ -1,0 +1,14 @@
+WWW::Shorten::Shorl
+
+    Interface to shorl.com
+
+For installation details, see INSTALL.
+
+For usage, see the documentation. Either use perldoc or view it
+on the web at:
+
+    <http://search.cpan.org/dist/WWW-Shorten-Shorl/>
+
+For a complete list of changes, see the Changes file.
+
+by Dave Cross (dave@mag-sol.com)

@@ -1,0 +1,6 @@
+2009-12-19  Dave Cross <dave@dave.org.uk>
+
+  * Artistic, Build.PL, COPYING, INSTALL, LICENCE, MANIFEST, MANIFEST.SKIP,
+  README, lib/WWW/Shorten/Shorl.pm, t/00load.t, t/00load_a.t, t/00load_b.t,
+  t/00noexp.t, t/01version.t, t/98pod-coverage.t, t/99pod.t, t/shorl.t: Added
+  files.
